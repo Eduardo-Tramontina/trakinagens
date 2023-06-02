@@ -16,5 +16,8 @@ main h2{
     margin-top: 100px;
 }
 header hr{
-    margin-top: 90px;
+    margin-top: 80px;
+}
+header{
+    color: black;
 }
